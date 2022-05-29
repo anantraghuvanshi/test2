@@ -40,7 +40,7 @@ review: 'I worked with Anant Singh Raghuwanshi on several Full stack Projects fr
 {
   avatar: img5,
 name: 'Shivam, Project Engineer(Wipro)',
-review: 'Modi alias animi dolorcm aliquam ca cum pcatac maiorcs, consectetur pracsentium quibusdam, commodi velit porro o blanditiis conscquatur qui molestiac. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+review: 'Excellent team worker and one of the main player of the team. He has great communication and writing skills. Good grasping power and always enthusiastic towards work. Working with him is always a smooth task. Anant has good understanding of frontend, backend tools and works according to the need of project.'
 }
 ];
 
@@ -68,11 +68,11 @@ const testimonials = () => {
             <img src= {avatar} />
           </div>
           <h5 className="client__review">{name}</h5>
-            <small className="collegue__review">{review}           
+            <small className="collegue__review">{review}
             </small>
         </SwiperSlide>
             )
-           
+
           })
         }
       </Swiper>
