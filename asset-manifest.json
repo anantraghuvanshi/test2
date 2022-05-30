@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.8af6cf0c.css",
-    "main.js": "/test2/static/js/main.ac58dae1.js",
+    "main.js": "/test2/static/js/main.131d19b6.js",
+    "static/media/portfolio4.gif": "/test2/static/media/portfolio4.36cc95b13b4ada7400f6.gif",
+    "static/media/portfolio3.gif": "/test2/static/media/portfolio3.3e8e136a6eaa2b2072e8.gif",
+    "static/media/portfolio1.gif": "/test2/static/media/portfolio1.f0df0e8d72516fd9d3e7.gif",
+    "static/media/portfolio6.gif": "/test2/static/media/portfolio6.b41260da2146e00b615e.gif",
+    "static/media/portfolio5.gif": "/test2/static/media/portfolio5.bbdcd0d00ce2c094e995.gif",
+    "static/media/portfolio2.gif": "/test2/static/media/portfolio2.271ae147e357b662346c.gif",
     "static/media/jaskaran.jpeg": "/test2/static/media/jaskaran.6c2e0b917688e16341ad.jpeg",
     "static/media/vaibhav.jpeg": "/test2/static/media/vaibhav.ef8f05014489c7d17515.jpeg",
     "static/media/bg-texture.jpeg": "/test2/static/media/bg-texture.2e6ec9c2e313504478ec.jpeg",
-    "static/media/portfolio5.png": "/test2/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/me.jpeg": "/test2/static/media/me.ccb091938685d8127976.jpeg",
     "static/media/abhishek.jpeg": "/test2/static/media/abhishek.96aff04f6300beddf82f.jpeg",
     "static/media/about.png": "/test2/static/media/about.94c9c6d6dbc3f241e809.png",
-    "static/media/portfolio2.jpg": "/test2/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/test2/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/shivam.jpeg": "/test2/static/media/shivam.1d7732565a16ff384c37.jpeg",
     "static/media/Opensource-resume.pdf": "/test2/static/media/Opensource-resume.999587bdd2894dbbca34.pdf",
-    "static/media/portfolio1.jpg": "/test2/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/test2/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/test2/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/vipul.jpeg": "/test2/static/media/vipul.b529d61b39a11e59aabd.jpeg",
     "index.html": "/test2/index.html",
     "main.8af6cf0c.css.map": "/test2/static/css/main.8af6cf0c.css.map",
-    "main.ac58dae1.js.map": "/test2/static/js/main.ac58dae1.js.map"
+    "main.131d19b6.js.map": "/test2/static/js/main.131d19b6.js.map"
   },
   "entrypoints": [
     "static/css/main.8af6cf0c.css",
-    "static/js/main.ac58dae1.js"
+    "static/js/main.131d19b6.js"
   ]
 }
