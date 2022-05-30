@@ -25,7 +25,7 @@ review: 'Mudi alias animi dolurem aliquam ea eum bealae maiures, conseclelur pra
 {
 avatar: img2,
 name: 'Vipul, Software Engineer(NPCI)',
-review: 'Anant is a person, worth working with on any project. A great initiator who adores working on cultivating ideas and executing them. He is the one who carries responsibility for giving the best by addressing unapproachable ways. Whether it's personal or professional, he's always willing to support and encourage.'
+review: 'Anant is a person, worth working with on any project. A great initiator who adores working on cultivating ideas and executing them. He is the one who carries responsibility for giving the best by addressing unapproachable ways. Whether it is personal or professional, he is always willing to support and encourage.'
 },
 {
 avatar: img3,

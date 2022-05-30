@@ -2,10 +2,10 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.gif";
 import IMG2 from "../../assets/portfolio2.gif";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG3 from "../../assets/portfolio3.gif";
+import IMG4 from "../../assets/portfolio4.gif";
+import IMG5 from "../../assets/portfolio5.gif";
+import IMG6 from "../../assets/portfolio6.gif";
 
 const data =[
   {
