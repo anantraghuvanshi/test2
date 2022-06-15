@@ -20,7 +20,7 @@ const data= [
 {
 avatar: img1,
 name: "Vaibhav, Software Engineer(Micron)",
-review: 'Mudi alias animi dolurem aliquam ea eum bealae maiures, conseclelur praesentiun quibusdam, commodi velit porru deserunt explicabo nostrum ducimus quasi?'
+review: 'Anant is always been a good person . He is always ready to help.anant is a great communicator. His work ethics is always admirable.anant handles work stress very well that is a very good thing about him.It was an honour being your friend , a person that does what he says, a man of his words and most importantly fully dedicated to his work. Anant is a vibrant, confident, spirited person , a person who always inspires me to do better and a person to who i can ways look up to. Anant is a smart and very quick learner in addition hard work of this man is on anothe level'
 },
 {
 avatar: img2,
